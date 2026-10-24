@@ -173,6 +173,6 @@ There is no build step and there are no dependencies: the `extension` folder is 
 
 ## License
 
-Copyright (C) 2026 rayytor
+Copyright (C) 2026 rayytorb
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3. It is distributed without any warranty. See [LICENSE](LICENSE).
